@@ -1,7 +1,10 @@
 # OpenGL Raster Editor
 2D editor using OpenGL, GLFW and Eigen for vector operations
 
-Dependencies: OpenGL, GLFW, Eigen, 
+Dependencies: OpenGL, GLFW, Eigen
+
+![Image of the project](https://github.com/kedar123pro/OpenGL-Raster-Editor/blob/master/Picturetriangle.png "image1")
+
 
 How to compile?
 ---------------
