@@ -21,4 +21,5 @@ To transform triangles: Press 'o' to enter translation mode, then select a trian
 
 To delete triangles: Press 'p' to enter deletion mode and click on any triangle to delete it
 
-To handle view transforms: Press '+' or '-' to zoom in or out, respectively. Use 'w','a','s','d' to pan around the viewport.
+To handle view transforms: Press '+' or '-' to zoom in or out, respectively. Use 'w', 'a', 's', 'd' to pan around the viewport.
+
